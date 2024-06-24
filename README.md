@@ -7,7 +7,8 @@
 
 普通弹框样式
 
-![Uploading 76fa3c8ca339c31d95e24dd2d1a48ca.png…]()
+![76fa3c8ca339c31d95e24dd2d1a48ca](https://github.com/liyanyng/Winfrom-/assets/106012367/9f65afe6-c856-4f88-a733-087b7f72ee05)
+
 
 
 FYMessageType.Success 成功
