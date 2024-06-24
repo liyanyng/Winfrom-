@@ -5,6 +5,11 @@
 
 并且这个方法枚举了几种弹框类型 
 
+普通弹框样式
+
+![Uploading 76fa3c8ca339c31d95e24dd2d1a48ca.png…]()
+
+
 FYMessageType.Success 成功
 
 ![40dbf75197a4d6cbd6c271862244224](https://github.com/liyanyng/Winfrom-/assets/106012367/be964e32-dfe0-4592-8b4a-f646ae85e355)
