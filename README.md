@@ -1,4 +1,4 @@
-# Winfrom-
+# Winfrom弹框-
 自己基于winfrom封装的包含四种样式的弹框，项目下载下来把测试窗体删掉然后生成dll就可以引用到自己的项目中使用了
 
 调用的方式是FYMessage.Show();
